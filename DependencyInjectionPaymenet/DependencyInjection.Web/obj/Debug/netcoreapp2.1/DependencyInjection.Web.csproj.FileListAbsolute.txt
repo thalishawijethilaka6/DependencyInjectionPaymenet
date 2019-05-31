@@ -1,0 +1,17 @@
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\bin\Debug\netcoreapp2.1\DependencyInjectionPaymenet.dll
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.csprojAssemblyReference.cache
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.csproj.CoreCompileInputs.cache
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.RazorAssemblyInfo.cache
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.RazorAssemblyInfo.cs
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.AssemblyInfoInputs.cache
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.AssemblyInfo.cs
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.RazorTargetAssemblyInfo.cache
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\bin\Debug\netcoreapp2.1\DependencyInjection.Web.deps.json
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\bin\Debug\netcoreapp2.1\DependencyInjection.Web.runtimeconfig.json
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\bin\Debug\netcoreapp2.1\DependencyInjection.Web.runtimeconfig.dev.json
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\bin\Debug\netcoreapp2.1\DependencyInjection.Web.dll
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\bin\Debug\netcoreapp2.1\DependencyInjection.Web.pdb
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\bin\Debug\netcoreapp2.1\DependencyInjectionPaymenet.pdb
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.csproj.CopyComplete
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.dll
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjection.Web\obj\Debug\netcoreapp2.1\DependencyInjection.Web.pdb

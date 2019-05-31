@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionPaymenet", "DependencyInjectionPaymenet\DependencyInjectionPaymenet.csproj", "{4B3D1749-3179-4CCC-A257-DB21ECF9BED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Web", "DependencyInjection.Web\DependencyInjection.Web.csproj", "{3E3F4A67-7CDD-458E-B601-907AFA4A429C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B3D1749-3179-4CCC-A257-DB21ECF9BED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3D1749-3179-4CCC-A257-DB21ECF9BED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3D1749-3179-4CCC-A257-DB21ECF9BED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3D1749-3179-4CCC-A257-DB21ECF9BED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3F4A67-7CDD-458E-B601-907AFA4A429C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3F4A67-7CDD-458E-B601-907AFA4A429C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3F4A67-7CDD-458E-B601-907AFA4A429C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3F4A67-7CDD-458E-B601-907AFA4A429C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {776F7E06-3ACE-4841-960E-EB9A72E6D4F1}
+	EndGlobalSection
+EndGlobal

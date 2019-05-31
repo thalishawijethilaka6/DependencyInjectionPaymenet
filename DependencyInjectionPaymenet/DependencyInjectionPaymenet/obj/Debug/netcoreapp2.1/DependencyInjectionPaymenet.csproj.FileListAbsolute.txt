@@ -1,0 +1,9 @@
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjectionPaymenet\bin\Debug\netcoreapp2.1\DependencyInjectionPaymenet.deps.json
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjectionPaymenet\bin\Debug\netcoreapp2.1\DependencyInjectionPaymenet.dll
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjectionPaymenet\bin\Debug\netcoreapp2.1\DependencyInjectionPaymenet.pdb
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjectionPaymenet\obj\Debug\netcoreapp2.1\DependencyInjectionPaymenet.csprojAssemblyReference.cache
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjectionPaymenet\obj\Debug\netcoreapp2.1\DependencyInjectionPaymenet.csproj.CoreCompileInputs.cache
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjectionPaymenet\obj\Debug\netcoreapp2.1\DependencyInjectionPaymenet.AssemblyInfoInputs.cache
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjectionPaymenet\obj\Debug\netcoreapp2.1\DependencyInjectionPaymenet.AssemblyInfo.cs
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjectionPaymenet\obj\Debug\netcoreapp2.1\DependencyInjectionPaymenet.dll
+C:\Users\twijethilaka\source\repos\DependencyInjectionPaymenet\DependencyInjectionPaymenet\obj\Debug\netcoreapp2.1\DependencyInjectionPaymenet.pdb
